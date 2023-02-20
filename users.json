@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Tony",
+        "last_name": "Smithyman",
+        "email": "tsmithyman0@omniture.com",
+        "password": "H0autPW"
+    },
+    {
+        "id": 2,
+        "first_name": "Sofie",
+        "last_name": "Featenby",
+        "email": "sfeatenby1@dailymail.co.uk",
+        "password": "j6w0Ie1JLCG"
+    },
+    {
+        "id": 3,
+        "first_name": "Pearline",
+        "last_name": "Brett",
+        "email": "pbrett2@pen.io",
+        "password": "ZIZq67hSVW"
+    },
+    {
+        "id": 4,
+        "first_name": "Sigvard",
+        "last_name": "O'Brian",
+        "email": "sobrian3@wiley.com",
+        "password": "hWGCiJBi"
+    },
+    {
+        "id": 5,
+        "first_name": "Justine",
+        "last_name": "Shellshear",
+        "email": "jshellshear4@homestead.com",
+        "password": "sbiaue"
+    },
+    {
+        "id": 6,
+        "first_name": "Tobi",
+        "last_name": "Desorts",
+        "email": "tdesorts5@salon.com",
+        "password": "EC1ppdMBc"
+    },
+    {
+        "id": 7,
+        "first_name": "Howey",
+        "last_name": "Twell",
+        "email": "htwell6@sourceforge.net",
+        "password": "2asZURfF"
+    },
+    {
+        "id": 8,
+        "first_name": "Tabbie",
+        "last_name": "Tapper",
+        "email": "ttapper7@yellowpages.com",
+        "password": "QQCn56m0"
+    },
+    {
+        "id": 9,
+        "first_name": "Lorrin",
+        "last_name": "Cantopher",
+        "email": "lcantopher8@microsoft.com",
+        "password": "hefnSdi2"
+    },
+    {
+        "id": 10,
+        "first_name": "Danie",
+        "last_name": "Risson",
+        "email": "drisson9@rakuten.co.jp",
+        "password": "VBTvLIB"
+    }
+]
